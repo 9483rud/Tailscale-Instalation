@@ -1,2 +1,4 @@
+sudo tailscale up
+
 sudo apt-get update
 sudo apt-get install tailscale
